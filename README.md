@@ -11,8 +11,8 @@ Hello! I'm Lord uzochi 🤓, a data analyst,  and educator with a passion for tu
 
 1. Microsoft Excel: Advanced Excel skills, including formulas, Power Query, pivot tables, and macros.
 2. SQL: Proficiency in writing SQL queries to extract and manipulate data.
-3. Data Visualization Tools: Familiarity with tools like Tableau, Power BI, or D3.js to create interactive dashboards.
-4. Programming Languages: Knowledge of languages like Python, R, or Julia for data analysis and machine learning.
+3. Data Visualization Tools: Familiarity with tools like Power BI to create interactive dashboards.
+4. Programming Languages: Knowledge of languages like Python or Julia for data analysis.
 5. Data Management: Understanding of data warehousing, ETL (Extract, Transform, Load) processes, and data governance.
 6. Statistical Analysis: Knowledge of statistical concepts, including hypothesis testing, confidence intervals, and regression analysis.
 
