@@ -53,7 +53,7 @@ Hello! I'm Lord uzochi 🤓, a data analyst,  and educator with a passion for tu
 [Read More](https://github.com/lorduzochi/Drug-Abuse-Analysis#drug-abuse-analysis)
 
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Product Campaign Metrics: Comparing Marketing Campaigns against Competitors.**
 
 ![1 Customer vs Marketing Campaign Descriptive Analysis](https://github.com/user-attachments/assets/8e54ec9a-b00e-456a-bce3-b9ee37b9d7e4)
 
